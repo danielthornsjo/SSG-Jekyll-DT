@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Flisa Hedenhös
 author: Anders Sjunnesson
 ---
