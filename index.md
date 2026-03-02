@@ -1,14 +1,12 @@
 ---
-layout: default
+layout: custom
 title: Flisa Hedenhös
-author: Anders Sjunnesson
+author: Daniel Thörnsjö
+webmaster: Daniel
 ---
 
 # Välkommen till min webbplats - {{ page.title }}
 
 {{ page.title }}
 
-
 **{{ page.author }}**
-
-
