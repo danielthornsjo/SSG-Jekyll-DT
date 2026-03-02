@@ -1,8 +1,8 @@
 title: Min Docker Jekyll Site
 description: Testsite i Docker
 baseurl: ""
-url: ""
+url: "https://danielthornsjo.github.io/SSG-Jekyll-DT"
 webmaster: "Daniel Thörnsjö"
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one

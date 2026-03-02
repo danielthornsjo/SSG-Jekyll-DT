@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: default
 title: Flisa Hedenhös
 author: Daniel Thörnsjö
 webmaster: Daniel
